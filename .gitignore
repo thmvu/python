@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+__MACOSX/
+._*
+
+Exercise/Exercise/01_Getting_&_Knowing_Your_Data/World Food Facts/products.tsv
